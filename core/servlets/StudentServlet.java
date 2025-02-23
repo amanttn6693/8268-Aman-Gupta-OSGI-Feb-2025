@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
 @Component(
         service = Servlet.class,
         property = {
-                "sling.servlet.paths=/bin/student",
+                "sling.servlet.paths=/bin/ttn",
                 "sling.servlet.methods=GET"
         }
 )
